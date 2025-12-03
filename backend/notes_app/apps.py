@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class NotesAppConfig(AppConfig):
-    name = 'notes_app'
+    name = "notes_app"

@@ -1,0 +1,2 @@
+# ooti
+ooti test django

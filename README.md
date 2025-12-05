@@ -37,3 +37,9 @@ poetry run python manage.py runserver
 
 Notes
 - Default DB settings are configured for local Docker Postgres in `backend/backend/settings.py`
+
+5) ENDPOINTS
+
+-http://127.0.0.1:8000/api/todos/  -> CRUD
+
+-http://127.0.0.1:8000/api/notes/  -> CRUD
